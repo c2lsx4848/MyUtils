@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyUtils</string>
+
+    <string name="list_index_loading_end" >没有更多了</string>
+    <string name="list_index_loading_error" >加载出错</string>
+    <string name="list_index_auto_loading" >数据加载中...</string>
+</resources>
